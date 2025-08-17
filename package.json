@@ -1,0 +1,14 @@
+{
+  "name": "discord-template-bot",
+  "version": "1.0.0",
+  "description": "Sunucu şablonu oluşturma botu (komutlar komutlar/ klasöründe).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "undici": "^5.17.0",
+    "dotenv": "^16.0.0"
+  }
+}
